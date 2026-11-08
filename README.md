@@ -5,7 +5,7 @@ This repository only holds finished app files — the app checks here once a day
 
 ## Install
 
-1. Open the [latest release](https://github.com/NonjaBinja123/SMaSh-releases/releases/latest) on your phone and download `SMaSh-v….apk`.
+1. On your phone, tap **[Download SMaSh](https://github.com/NonjaBinja123/SMaSh-releases/releases/latest/download/SMaSh.apk)** (always the newest version).
 2. Open the file. If Android asks, allow your browser or file manager to install apps.
 3. After that, SMaSh tells you when a new version is out — tap **Update**, then confirm Android's prompt.
 
